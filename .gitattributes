@@ -1,0 +1,9 @@
+libclang-cpp.so.15git filter=lfs diff=lfs merge=lfs -text
+libclang.so.15git filter=lfs diff=lfs merge=lfs -text
+clang-scan-deps filter=lfs diff=lfs merge=lfs -text
+llvm-lto2 filter=lfs diff=lfs merge=lfs -text
+bugpoint filter=lfs diff=lfs merge=lfs -text
+clang-15 filter=lfs diff=lfs merge=lfs -text
+opt filter=lfs diff=lfs merge=lfs -text
+libLTO.so.15git filter=lfs diff=lfs merge=lfs -text
+lld filter=lfs diff=lfs merge=lfs -text
